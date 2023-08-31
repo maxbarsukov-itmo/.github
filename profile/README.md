@@ -1,6 +1,6 @@
 <h1 align="center">maxbarsukov-itmo</h1>
 
-👋  Hi! I'm @maxbarsukov, a student at ITMO University.
+👋  Hi! I'm [@maxbarsukov](https://github.com/maxbarsukov), a student at ITMO University.
 
 You can find the main repository with other labs, guides and FAQs at https://github.com/maxbarsukov/itmo
 
@@ -10,7 +10,7 @@ I created this organization to store projects and labs here that are too large t
 
 ## 🤝 Contributing 
 
-Hey! I'm glad you're thinking about contributing to @maxbarsukov-itmo! Feel free to pick an issue labeled as `good first issue` and  ask any question you need. Some points might not be clear, and I am available to help you!
+Hey! I'm glad you're thinking about contributing to **@maxbarsukov-itmo**! Feel free to pick an issue labeled as `good first issue` and  ask any question you need. Some points might not be clear, and I am available to help you!
 
 Before creating your PR, I strongly encourage you to read the repository's corresponding `CONTRIBUTING.md` or otherwise the "Contributing" section of the `README.md`.
 
